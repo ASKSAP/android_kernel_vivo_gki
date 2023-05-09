@@ -1,0 +1,8 @@
+GKI Respin info:
+branch: android13-5.15-2022-08
+tag: android13-5.15-2022-08_r28
+BOOT_SECURITY_PATCH: 2023-01-05
+kernel: https://ci.android.com/builds/submitted/9355920/kernel_aarch64/latest
+
+# cat /proc/version
+Linux version 5.15.41-android13-8-00002-g59c7ca33c2e5-ab9355920 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Thu Dec 1 05:46:02 UTC 2022
